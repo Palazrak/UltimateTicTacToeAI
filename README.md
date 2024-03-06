@@ -3,9 +3,9 @@
 Para la clase de Inteligencia Artificial (ITAM, Primavera 2024), se nos dejó como proyecto hacer una Inteligencia Artificial que jugara "Ultimate Tic Tac Toe". En este repositorio se incluyen todas las clases utilizadas para realizar el proyecto.
 
 El Código completo está dividido en 5 archivos:
-- *Move*, *GameBoard* y *UtttError*, hechas por @mellamanelpoeta, que incluyen la implementación del juego y las reglas, así como métodos para verificar el estado del tablero, quien ha ganado en los sub-juegos, etc.
-- *GameMethods*, hecha por mi (@Palazrak) y por @fridamarquezg, que incluye la implementación de un algoritmo *minimax* y la *funcion heurística* utilizada en el proyecto.
-- *UltimateTicTacToe*, hecha por @Majo2103, que reúne todos los archivos para poder correr un ejecutable en terminal para jugar contra la IA que programamos.
+- *Move*, *GameBoard* y *UtttError*, hechas por [*@mellamanelpoeta*](https://github.com/mellamanelpoeta), que incluyen la implementación del juego y las reglas, así como métodos para verificar el estado del tablero, quien ha ganado en los sub-juegos, etc.
+- *GameMethods*, hecha por mi ([*@Palazrak*](https://github.com/Palazrak)) y por [*@fridamarquezg*](https://github.com/fridamarquezg), que incluye la implementación de un algoritmo *minimax* y la *funcion heurística* utilizada en el proyecto.
+- *UltimateTicTacToe*, hecha por [*@Majo2103*](https://github.com/Majo2103), que reúne todos los archivos para poder correr un ejecutable en terminal para jugar contra la IA que programamos.
 
 ### Instrucciones de uso
 
